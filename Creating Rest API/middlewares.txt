@@ -1,0 +1,2 @@
+  They are like middle mens who are capable of doing req and res before executing the main function we can use them apis for multiple checks and they can return response halfway without compliting the whole request.
+  
